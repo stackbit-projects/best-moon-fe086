@@ -29,7 +29,7 @@ const IndexPage = () => (
               </Scroll>
             </div>
           </div>
-          <div className="col-lg-5 my-auto">
+          <div className="col-lg-5 ">
             <img src='http://artnerd.net/src/assets/main/portrait.png' className="img-fluid" alt="" />
            
           </div>
