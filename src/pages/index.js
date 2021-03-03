@@ -30,15 +30,15 @@ const IndexPage = () => (
             </div>
           </div>
           <div className="col-lg-5 my-auto">
-            {/* <div className="device-container"> */}
-              {/* <div className="device-mockup iphone6_plus portrait white"> */}
-                {/* <div className="device"> */}
-                  {/* <div className="screen"> */}
+            <div className="device-container">
+              <div className="device-mockup iphone6_plus portrait white">
+                <div className="device">
+                  <div className="screen">
                     <img src={'http://artnerd.net/src/assets/main/portrait.png'} className="img-fluid" alt="" />
-                  {/* </div> */}
-                  {/* <div className="button"></div> */}
-                {/* </div> */}
-              {/* </div> */}
+                  </div>
+                  <div className="button"></div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
