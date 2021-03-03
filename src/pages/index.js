@@ -24,7 +24,7 @@ const IndexPage = () => (
               </h1>
               <Scroll type="id" element="download">
                 <a href="#download" className="btn btn-outline btn-xl">
-                  Start Now for Free!
+                  see my portfolio
                 </a>
               </Scroll>
             </div>
