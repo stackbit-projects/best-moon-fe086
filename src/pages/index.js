@@ -36,7 +36,7 @@ const IndexPage = () => (
                   <div className="screen">
                     <img src={'http://artnerd.net/src/assets/main/portrait.png'} className="img-fluid" alt="" />
                   </div>
-                  <div className="button"></div>
+                  {/* <div className="button"></div> */}
                 </div>
               </div>
             </div>
