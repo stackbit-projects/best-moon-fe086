@@ -30,7 +30,7 @@ const IndexPage = () => (
             </div>
           </div>
           <div className="col-lg-5 my-auto">
-            <div className="device-container">
+            {/* <div className="device-container"> */}
               {/* <div className="device-mockup iphone6_plus portrait white"> */}
                 {/* <div className="device"> */}
                   {/* <div className="screen"> */}
